@@ -23,4 +23,3 @@ MySQL
 
 ## Screenshot
 ![Student Management Table](screenshot-student-management.jpg)
-![Student Management Table](screenshot-student-management.png)
