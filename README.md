@@ -20,3 +20,7 @@ CSS
 JavaScript
 PHP
 MySQL
+
+## Screenshot
+
+![Student Management Table](screenshot-student-management.png)
